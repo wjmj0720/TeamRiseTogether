@@ -31,3 +31,10 @@
 ```bash
 git clone https://github.com/onefanki94/TeamRiseTogether.git
 
+### 2. 레포지토리 최신 정보 업데이트
+레포지토리를 클론하여 로컬 환경에 프로젝트를 복사합니다.
+
+```bash
+git pull origin main or
+git pull
+
